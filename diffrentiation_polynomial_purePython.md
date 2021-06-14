@@ -79,4 +79,6 @@ NOTE :: Program , when returning, should not return x**1 in string,
         2+3x+4x**2+5X**3   # RIGHT
 
 
+SIMILAR PROBLEM / SUB PROBLEM STATEMENT :: similarly create function/program for integration
+
 ```
